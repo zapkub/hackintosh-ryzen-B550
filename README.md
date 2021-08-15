@@ -27,10 +27,10 @@ then **you need to generate SMBIOS and replace the value into config.plist file*
 - Bluetooth with Airplay supported, Airpod supported
 - WIFI
 - Message, Appstore, iCloud (Need internal en0 card setup)
+- Handoff, Universal clipboard and Sidecar is worked with some setup (see [How I got Sidecar working on my Hackintosh](https://www.reddit.com/r/hackintosh/comments/ierd1d/how_i_got_sidecar_handoffcontinuity_working_on_my/))
 
 # Unsupported
 - All Apple Virtual Machine software is not working 😔
     - Docker ( only Docker machine with Virtualbox works )
     - Parallels Desktop
     - VM Fusion
-- Handoff, Universal clipboard and Sidecar is not working
